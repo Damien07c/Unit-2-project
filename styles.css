@@ -1,0 +1,74 @@
+
+.title{ 
+    text-align:center;
+    color:white;
+    font-family: 'Akaya Kanadaka';font-size: 45px  ;
+}
+/* The code from lines 6-10 adds the black background-color and white text color for each section heading. If you want to change the color of the section headers, change this code!*/
+div {
+    color:black;
+    text-align: center;
+    background-color: #015B7E;
+   
+
+   
+
+}
+body { 
+    background: #015B7E ;
+    color:#FFFFFF;
+     text-align: center;
+
+}
+.title {
+  color:black;
+     text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:425px;
+    border: 10px solid #000000;
+     text-align: center;
+ 
+}
+.causes {
+    color:white;
+border:solid 6px#000000;
+    width:1000px;
+      margin-left: auto;
+    margin-right: auto;
+     text-align: center;
+    font-family: 'Akaya Kanadaka';font-size: 22px;
+}
+.Effects {
+       color:white;
+border:solid 6px#000000;
+    width:1000px;
+      margin-left: auto;
+    margin-right: auto;
+     text-align: center;
+  font-family: 'Akaya Kanadaka';font-size: 22px;
+}
+
+.E1 {
+      text-align:center;
+    
+}
+.h2 {
+    color:white;
+    font-family: 'Almarai';font-size: 60px;
+}
+.tx1 {
+       color:#FFFFFF;
+border:solid 6px#000000;
+    width:1000px;
+      margin-left: auto;
+    margin-right: auto;
+     text-align: center;
+  font-family: 'Akaya Kanadaka';font-size: 22px;
+}
+.section { 
+    color:white;
+}
